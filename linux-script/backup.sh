@@ -8,3 +8,4 @@ mkdir -p "$DEST"
 tar -czf "$DEST/etc-backup.tar.gz" "$SOURCE"
 
 echo "Backup completed"
+echo Backup Process Started
